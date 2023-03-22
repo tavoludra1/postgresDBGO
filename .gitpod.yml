@@ -25,3 +25,4 @@ vscode:
   extensions:
     - mtxr.sqltools
     - mtxr.sqltools-driver-pg
+    - golang.go
